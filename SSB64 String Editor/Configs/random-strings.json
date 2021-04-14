@@ -1,0 +1,1664 @@
+[
+  {
+    "Offset": "0x001842A0",
+    "Length": 11,
+    "Text": "Game Design",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001842D0",
+    "Length": 8,
+    "Text": "Planning",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001842F4",
+    "Length": 9,
+    "Text": "Direction",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018431C",
+    "Length": 15,
+    "Text": "Motion Coaching",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018435C",
+    "Length": 21,
+    "Text": "Kirby Original Design",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001843B4",
+    "Length": 18,
+    "Text": "Program Management",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184400",
+    "Length": 7,
+    "Text": "System,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018441C",
+    "Length": 6,
+    "Text": "Player",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184438",
+    "Length": 11,
+    "Text": "Programming",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184468",
+    "Length": 8,
+    "Text": "Library,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184488",
+    "Length": 4,
+    "Text": "Map,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184498",
+    "Length": 8,
+    "Text": "Display,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001844BC",
+    "Length": 7,
+    "Text": "Effect,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001844D8",
+    "Length": 17,
+    "Text": "Computer Player,1",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184520",
+    "Length": 6,
+    "Text": "PGame,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184538",
+    "Length": 5,
+    "Text": "Boss,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184550",
+    "Length": 25,
+    "Text": "Training Mode Programming",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001845B8",
+    "Length": 16,
+    "Text": "Character & Game",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001845F8",
+    "Length": 4,
+    "Text": "Mode",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018460C",
+    "Length": 6,
+    "Text": "Select",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184624",
+    "Length": 7,
+    "Text": "Screen,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184640",
+    "Length": 8,
+    "Text": "Ranking,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184664",
+    "Length": 8,
+    "Text": "Opening,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184684",
+    "Length": 6,
+    "Text": "Screen",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018469C",
+    "Length": 7,
+    "Text": "Adjust,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001846BC",
+    "Length": 6,
+    "Text": "Backup",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001846D4",
+    "Length": 15,
+    "Text": "Ram Programming",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184714",
+    "Length": 5,
+    "Text": "Item,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184728",
+    "Length": 7,
+    "Text": "Device,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184744",
+    "Length": 11,
+    "Text": "Sound Test,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184774",
+    "Length": 5,
+    "Text": "Staff",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184788",
+    "Length": 5,
+    "Text": "Roll,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018479C",
+    "Length": 5,
+    "Text": "Title",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001847B4",
+    "Length": 11,
+    "Text": "Programming",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001847E4",
+    "Length": 8,
+    "Text": "Pikachu,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184804",
+    "Length": 4,
+    "Text": "Ness",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184818",
+    "Length": 7,
+    "Text": "Special",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184834",
+    "Length": 17,
+    "Text": "Moves Programming",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018487C",
+    "Length": 5,
+    "Text": "Link,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184890",
+    "Length": 6,
+    "Text": "Kirby,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001848A8",
+    "Length": 6,
+    "Text": "Yoshi,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001848C4",
+    "Length": 2,
+    "Text": "C.",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001848CC",
+    "Length": 6,
+    "Text": "Falcon",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001848E8",
+    "Length": 7,
+    "Text": "Special",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184904",
+    "Length": 17,
+    "Text": "Moves Programming",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018494C",
+    "Length": 17,
+    "Text": "Design Management",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184994",
+    "Length": 16,
+    "Text": "Modeling Support",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001849D8",
+    "Length": 6,
+    "Text": "Mario,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001849F0",
+    "Length": 6,
+    "Text": "Luigi,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184A08",
+    "Length": 4,
+    "Text": "Fox,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184A18",
+    "Length": 6,
+    "Text": "Yoshi,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184A34",
+    "Length": 8,
+    "Text": "Pikachu,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184A54",
+    "Length": 6,
+    "Text": "Kirby,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184A70",
+    "Length": 16,
+    "Text": "Jigglypuff Model",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184AB4",
+    "Length": 6,
+    "Text": "Mario,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184ACC",
+    "Length": 6,
+    "Text": "Luigi,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184AE4",
+    "Length": 12,
+    "Text": "Yoshi Motion",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184B18",
+    "Length": 5,
+    "Text": "Bonus",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184B2C",
+    "Length": 5,
+    "Text": "Stage",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184B40",
+    "Length": 11,
+    "Text": "Map Support",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184B70",
+    "Length": 3,
+    "Text": "DK,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184B7C",
+    "Length": 6,
+    "Text": "Samus,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184B94",
+    "Length": 2,
+    "Text": "C.",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184B9C",
+    "Length": 7,
+    "Text": "Falcon,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184BBC",
+    "Length": 5,
+    "Text": "Link,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184BD0",
+    "Length": 10,
+    "Text": "Ness Model",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184BFC",
+    "Length": 3,
+    "Text": "DK,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184C08",
+    "Length": 11,
+    "Text": "Link Motion",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184C38",
+    "Length": 5,
+    "Text": "Bonus",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184C4C",
+    "Length": 5,
+    "Text": "Stage",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184C60",
+    "Length": 11,
+    "Text": "Map Support",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184C90",
+    "Length": 20,
+    "Text": "Motion Capture Actor",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184CE4",
+    "Length": 12,
+    "Text": "Samus Motion",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184D18",
+    "Length": 5,
+    "Text": "Item,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184D2C",
+    "Length": 8,
+    "Text": "Effect,1",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184D50",
+    "Length": 6,
+    "Text": "PStart",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184D68",
+    "Length": 6,
+    "Text": "Screen",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184D84",
+    "Length": 8,
+    "Text": "Training",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184DA4",
+    "Length": 13,
+    "Text": "Screen Design",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184DDC",
+    "Length": 13,
+    "Text": "Effect Design",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184E14",
+    "Length": 6,
+    "Text": "Samus,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184E2C",
+    "Length": 3,
+    "Text": "DK,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184E38",
+    "Length": 4,
+    "Text": "Fox,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184E48",
+    "Length": 6,
+    "Text": "Kirby,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184E64",
+    "Length": 8,
+    "Text": "Pikachu,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184E84",
+    "Length": 15,
+    "Text": "Boss Map Design",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184EC4",
+    "Length": 5,
+    "Text": "Menu,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184ED8",
+    "Length": 9,
+    "Text": "Character",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184EFC",
+    "Length": 6,
+    "Text": "Select",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184F18",
+    "Length": 7,
+    "Text": "Screen,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184F34",
+    "Length": 5,
+    "Text": "Mark,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184F48",
+    "Length": 12,
+    "Text": "Title Design",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184F7C",
+    "Length": 6,
+    "Text": "Mario,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184F94",
+    "Length": 6,
+    "Text": "Yoshi,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184FB0",
+    "Length": 7,
+    "Text": "Classic",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184FCC",
+    "Length": 5,
+    "Text": "Mario",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184FE4",
+    "Length": 10,
+    "Text": "Map Design",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185010",
+    "Length": 6,
+    "Text": "Mario,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185028",
+    "Length": 3,
+    "Text": "DK,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185034",
+    "Length": 6,
+    "Text": "Samus,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018504C",
+    "Length": 3,
+    "Text": "Fox",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018505C",
+    "Length": 14,
+    "Text": "Motion Support",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185098",
+    "Length": 19,
+    "Text": "Yoshi Damage Motion",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001850E8",
+    "Length": 5,
+    "Text": "Bonus",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001850FC",
+    "Length": 5,
+    "Text": "Stage",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185110",
+    "Length": 11,
+    "Text": "Map Support",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185140",
+    "Length": 4,
+    "Text": "Fox,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185150",
+    "Length": 6,
+    "Text": "Kirby,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185168",
+    "Length": 11,
+    "Text": "Boss Motion",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185198",
+    "Length": 19,
+    "Text": "Motion Capture Data",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001851E8",
+    "Length": 7,
+    "Text": "Convert",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185208",
+    "Length": 5,
+    "Text": "Bonus",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018521C",
+    "Length": 5,
+    "Text": "Stage",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185230",
+    "Length": 11,
+    "Text": "Map Support",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185260",
+    "Length": 14,
+    "Text": "Pikachu Motion",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018529C",
+    "Length": 6,
+    "Text": "Samus,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001852B4",
+    "Length": 17,
+    "Text": "Fox Damage Motion",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001852FC",
+    "Length": 11,
+    "Text": "Item Design",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018532C",
+    "Length": 8,
+    "Text": "Opening,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185350",
+    "Length": 13,
+    "Text": "Effect Design",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185388",
+    "Length": 5,
+    "Text": "Bonus",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018539C",
+    "Length": 5,
+    "Text": "Stage",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001853B0",
+    "Length": 3,
+    "Text": "Map",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001853C0",
+    "Length": 23,
+    "Text": "Pokémon Model Confusion",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185420",
+    "Length": 14,
+    "Text": "Design Support",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018545C",
+    "Length": 2,
+    "Text": "C.",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185464",
+    "Length": 7,
+    "Text": "Falcon,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185480",
+    "Length": 5,
+    "Text": "Ness,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185498",
+    "Length": 17,
+    "Text": "Jigglypuff Motion",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001854E0",
+    "Length": 2,
+    "Text": "C.",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001854E8",
+    "Length": 7,
+    "Text": "Falcon,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185504",
+    "Length": 5,
+    "Text": "Ness,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018551C",
+    "Length": 17,
+    "Text": "Jigglypuff Motion",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185564",
+    "Length": 2,
+    "Text": "C.",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018556C",
+    "Length": 7,
+    "Text": "Falcon,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185588",
+    "Length": 5,
+    "Text": "Ness,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001855A0",
+    "Length": 17,
+    "Text": "Jigglypuff Motion",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001855E8",
+    "Length": 2,
+    "Text": "C.",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001855F0",
+    "Length": 7,
+    "Text": "Falcon,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018560C",
+    "Length": 5,
+    "Text": "Ness,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185624",
+    "Length": 17,
+    "Text": "Jigglypuff Motion",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018566C",
+    "Length": 14,
+    "Text": "Pikachu Motion",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001856A8",
+    "Length": 18,
+    "Text": "Ness Damage Motion",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001856F4",
+    "Length": 11,
+    "Text": "Pikachu Map",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185724",
+    "Length": 6,
+    "Text": "Design",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185740",
+    "Length": 14,
+    "Text": "Opening Design",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018577C",
+    "Length": 14,
+    "Text": "Opening Design",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001857B8",
+    "Length": 12,
+    "Text": "BGM Compose&",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001857E8",
+    "Length": 7,
+    "Text": "Arrange",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185808",
+    "Length": 11,
+    "Text": "FGM Compose",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185838",
+    "Length": 15,
+    "Text": "Project Support",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185878",
+    "Length": 6,
+    "Text": "Mario,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185890",
+    "Length": 11,
+    "Text": "Luigi Voice",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001858C0",
+    "Length": 10,
+    "Text": "Link Voice",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001858EC",
+    "Length": 12,
+    "Text": "Yoshi Voice'",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185920",
+    "Length": 14,
+    "Text": "Yoshi's Story'",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018595C",
+    "Length": 22,
+    "Text": "Original Sound Compose",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001859B8",
+    "Length": 6,
+    "Text": "Kirby,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001859D0",
+    "Length": 10,
+    "Text": "Ness Voice",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001859FC",
+    "Length": 9,
+    "Text": "Fox Voice",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185A24",
+    "Length": 13,
+    "Text": "Pikachu Voice",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185A5C",
+    "Length": 2,
+    "Text": "C.",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185A64",
+    "Length": 12,
+    "Text": "Falcon Voice",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185A98",
+    "Length": 16,
+    "Text": "Jigglypuff Voice",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185ADC",
+    "Length": 14,
+    "Text": "Narrator Voice",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185B18",
+    "Length": 6,
+    "Text": "Mario,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185B30",
+    "Length": 6,
+    "Text": "Luigi,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185B48",
+    "Length": 5,
+    "Text": "Link,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185B60",
+    "Length": 19,
+    "Text": "Yoshi Source Model'",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185BB0",
+    "Length": 19,
+    "Text": "Super Mario Bros.''",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185C00",
+    "Length": 21,
+    "Text": "The Legend of Zelda''",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185C58",
+    "Length": 4,
+    "Text": "Star",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185C68",
+    "Length": 6,
+    "Text": "Fox64'",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185C84",
+    "Length": 24,
+    "Text": "Original Sound Composing",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185CE8",
+    "Length": 22,
+    "Text": "Samus Original Design'",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185D44",
+    "Length": 14,
+    "Text": "Super Metroid'",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185D80",
+    "Length": 10,
+    "Text": "CG Design'",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185DAC",
+    "Length": 20,
+    "Text": "Donkey Kong Country'",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185E00",
+    "Length": 24,
+    "Text": "Original Sound Composing",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185E64",
+    "Length": 11,
+    "Text": "Rendered 3-",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185E90",
+    "Length": 13,
+    "Text": "D Donkey Kong",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185EC8",
+    "Length": 39,
+    "Text": "Character used withpermission of Rare.'",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185F6C",
+    "Length": 17,
+    "Text": "Metroid' Original",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185FB4",
+    "Length": 16,
+    "Text": "Sound Composing'",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00185FF8",
+    "Length": 14,
+    "Text": "Yoshi's Story'",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186030",
+    "Length": 10,
+    "Text": "Production",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018605C",
+    "Length": 6,
+    "Text": "Advice",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186078",
+    "Length": 22,
+    "Text": "Yoshi Original Design'",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001860D4",
+    "Length": 17,
+    "Text": "Kirby Super Star'",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018611C",
+    "Length": 25,
+    "Text": "Original Sound Composing'",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186184",
+    "Length": 4,
+    "Text": "Star",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186194",
+    "Length": 6,
+    "Text": "Fox64'",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001861AC",
+    "Length": 9,
+    "Text": "Direction",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001861D4",
+    "Length": 4,
+    "Text": "Fox,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001861E4",
+    "Length": 2,
+    "Text": "C.",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001861EC",
+    "Length": 6,
+    "Text": "Falcon",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186208",
+    "Length": 16,
+    "Text": "Original Design'",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018624C",
+    "Length": 8,
+    "Text": "Pokémon'",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186270",
+    "Length": 12,
+    "Text": "Game Design,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001862A4",
+    "Length": 10,
+    "Text": "Direction'",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001862D0",
+    "Length": 16,
+    "Text": "Pokémon Stadium'",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186314",
+    "Length": 21,
+    "Text": "Source Modeling Chief",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018636C",
+    "Length": 20,
+    "Text": "Pikachu Source Model",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001863C0",
+    "Length": 10,
+    "Text": "Jigglypuff",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001863EC",
+    "Length": 13,
+    "Text": "Source Model'",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186424",
+    "Length": 2,
+    "Text": "F-",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018642C",
+    "Length": 16,
+    "Text": "ZERO X' Original",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186470",
+    "Length": 15,
+    "Text": "Sound Composing",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001864B0",
+    "Length": 7,
+    "Text": "Pokémon",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001864D0",
+    "Length": 20,
+    "Text": "Products Supervisor'",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186524",
+    "Length": 9,
+    "Text": "Pokémon''",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018654C",
+    "Length": 5,
+    "Text": "Earth",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186560",
+    "Length": 6,
+    "Text": "Bound'",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186578",
+    "Length": 8,
+    "Text": "Produce'",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018659C",
+    "Length": 5,
+    "Text": "Earth",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001865B0",
+    "Length": 6,
+    "Text": "Bound'",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001865C8",
+    "Length": 8,
+    "Text": "Producer",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001865EC",
+    "Length": 6,
+    "Text": "Title,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186604",
+    "Length": 13,
+    "Text": "Story Concept",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018663C",
+    "Length": 6,
+    "Text": "Advice",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186658",
+    "Length": 12,
+    "Text": "Localization",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018668C",
+    "Length": 12,
+    "Text": "Localization",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001866C0",
+    "Length": 12,
+    "Text": "Localization",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001866F4",
+    "Length": 13,
+    "Text": "Debug Support",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018672C",
+    "Length": 13,
+    "Text": "Debug Support",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186764",
+    "Length": 17,
+    "Text": "Editorial Support",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001867AC",
+    "Length": 15,
+    "Text": "Model Converter",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001867EC",
+    "Length": 11,
+    "Text": "Programming",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018681C",
+    "Length": 15,
+    "Text": "Model Converter",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018685C",
+    "Length": 11,
+    "Text": "Programming",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018688C",
+    "Length": 11,
+    "Text": "SGI Support",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001868BC",
+    "Length": 12,
+    "Text": "Data Support",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001868F0",
+    "Length": 22,
+    "Text": "Motion Capture SE & OP",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018694C",
+    "Length": 22,
+    "Text": "Motion Capture SE & OP",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001869A8",
+    "Length": 7,
+    "Text": "Data SE",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001869C8",
+    "Length": 9,
+    "Text": "Diplomacy",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001869F0",
+    "Length": 6,
+    "Text": "Advice",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186A0C",
+    "Length": 5,
+    "Text": "Super",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186A20",
+    "Length": 5,
+    "Text": "Mario",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186A34",
+    "Length": 4,
+    "Text": "Club",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186A48",
+    "Length": 13,
+    "Text": "Debug Support",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186A80",
+    "Length": 5,
+    "Text": "Debug",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186A98",
+    "Length": 10,
+    "Text": "Assessment",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186AC4",
+    "Length": 5,
+    "Text": "Debug",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186ADC",
+    "Length": 20,
+    "Text": "Game Balance Support",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186B30",
+    "Length": 17,
+    "Text": "US Pokémon voices",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186B78",
+    "Length": 18,
+    "Text": "Project Management",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186BC4",
+    "Length": 18,
+    "Text": "Traffic Management",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186C10",
+    "Length": 20,
+    "Text": "Motion Capture Actor",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186C64",
+    "Length": 14,
+    "Text": "Sales Schedule",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186CA0",
+    "Length": 10,
+    "Text": "Management",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186CCC",
+    "Length": 12,
+    "Text": "Negotiations",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186D00",
+    "Length": 17,
+    "Text": "Negotiation Chief",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186D48",
+    "Length": 16,
+    "Text": "Computer Player,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186D8C",
+    "Length": 24,
+    "Text": "Test Version Programming",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186DF0",
+    "Length": 15,
+    "Text": "Program Support",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186E30",
+    "Length": 10,
+    "Text": "Diplomacy,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186E5C",
+    "Length": 6,
+    "Text": "Advice",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186E78",
+    "Length": 6,
+    "Text": "Mario,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186E90",
+    "Length": 6,
+    "Text": "Luigi,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186EA8",
+    "Length": 5,
+    "Text": "Link,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186EBC",
+    "Length": 2,
+    "Text": "DK",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186EC8",
+    "Length": 15,
+    "Text": "Original Design",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186F08",
+    "Length": 13,
+    "Text": "Various games",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186F40",
+    "Length": 22,
+    "Text": "Production & Direction",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186F9C",
+    "Length": 6,
+    "Text": "Advice",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00186FB8",
+    "Length": 29,
+    "Text": "Company Presidentof Nintendo,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00187030",
+    "Length": 22,
+    "Text": "Japan60 KAMITAKAMATSU-",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018708C",
+    "Length": 3,
+    "Text": "CHO",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018709C",
+    "Length": 8,
+    "Text": "FUKUINE,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001870BC",
+    "Length": 12,
+    "Text": "HIGASHIYAMA-",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001870EC",
+    "Length": 2,
+    "Text": "KU",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001870F8",
+    "Length": 42,
+    "Text": "KYOTO,605-8660 JAPAN1999-9 Ryuoushinmachi,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001871A8",
+    "Length": 10,
+    "Text": "Ryuou-cho,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001871D0",
+    "Length": 12,
+    "Text": "Nakakomagun,",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00187204",
+    "Length": 18,
+    "Text": "Yamanashi,400-0111",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00187250",
+    "Length": 5,
+    "Text": "Japan",
+    "Size": 0
+  }
+]

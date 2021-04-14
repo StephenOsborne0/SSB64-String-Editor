@@ -1,0 +1,110 @@
+[
+  {
+    "Offset": "0x00183F5C",
+    "Length": 8,
+    "Text": "Director",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183F7C",
+    "Length": 5,
+    "Text": "Chief",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183F90",
+    "Length": 11,
+    "Text": "Programmers",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183FBC",
+    "Length": 9,
+    "Text": "Designers",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183FE0",
+    "Length": 14,
+    "Text": "Sound Composer",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184018",
+    "Length": 7,
+    "Text": "Support",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184034",
+    "Length": 12,
+    "Text": "Voice Actors",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184064",
+    "Length": 14,
+    "Text": "Special Thanks",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018409C",
+    "Length": 19,
+    "Text": "Original Game Staff",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001840E8",
+    "Length": 7,
+    "Text": "Project",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184104",
+    "Length": 7,
+    "Text": "Manager",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184120",
+    "Length": 8,
+    "Text": "Progress",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184140",
+    "Length": 8,
+    "Text": "Producer",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184160",
+    "Length": 9,
+    "Text": "Executive",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00184184",
+    "Length": 8,
+    "Text": "Presents",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001841A4",
+    "Length": 9,
+    "Text": "NOA Staff",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001841C8",
+    "Length": 10,
+    "Text": "Programmer",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001841F0",
+    "Length": 8,
+    "Text": "Designer",
+    "Size": 0
+  }
+]

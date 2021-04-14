@@ -1,0 +1,506 @@
+[
+  {
+    "Offset": "0x00182960",
+    "Length": 16,
+    "Text": "Masahiro Sakurai",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001829A0",
+    "Length": 14,
+    "Text": "Yoshiki Suzuki",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001829D8",
+    "Length": 16,
+    "Text": "Kouichi Watanabe",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00182A18",
+    "Length": 18,
+    "Text": "Yasuyuki Nagashima",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00182A60",
+    "Length": 17,
+    "Text": "Yoshimi Takahashi",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00182AA4",
+    "Length": 16,
+    "Text": "Katsuhiro Sakoda",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00182AE4",
+    "Length": 17,
+    "Text": "Yoshiya Taniguchi",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00182B28",
+    "Length": 17,
+    "Text": "Tsuyoshi Wakayama",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00182B6C",
+    "Length": 15,
+    "Text": "Hitoshi Kikkawa",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00182BA8",
+    "Length": 15,
+    "Text": "Junsuke Sugiura",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00182BE4",
+    "Length": 15,
+    "Text": "Satoko Nakamura",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00182C20",
+    "Length": 17,
+    "Text": "Tadashi Hashikura",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00182C64",
+    "Length": 17,
+    "Text": "Michiko Takahashi",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00182CA8",
+    "Length": 10,
+    "Text": "Akio Hanyu",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00182CD0",
+    "Length": 14,
+    "Text": "Isao Takahashi",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00182D08",
+    "Length": 14,
+    "Text": "Youichi Sukino",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00182D40",
+    "Length": 10,
+    "Text": "Kazu Ozawa",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00182D68",
+    "Length": 14,
+    "Text": "Kunio Watanabe",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00182DA0",
+    "Length": 18,
+    "Text": "Shigeru Hashiguchi",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00182DE8",
+    "Length": 12,
+    "Text": "Tatsuhiko Oi",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00182E18",
+    "Length": 14,
+    "Text": "Masaya Akiyama",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00182E50",
+    "Length": 12,
+    "Text": "Senji Hirose",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00182E80",
+    "Length": 12,
+    "Text": "Eriko Suzuki",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00182EB0",
+    "Length": 14,
+    "Text": "C Shane Allala",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00182EE8",
+    "Length": 14,
+    "Text": "Takeshi Iizuka",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00182F20",
+    "Length": 14,
+    "Text": "Nachi Sugiyama",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00182F58",
+    "Length": 12,
+    "Text": "Ryuta Kusumi",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00182F88",
+    "Length": 13,
+    "Text": "Hirokazu Ando",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00182FBC",
+    "Length": 18,
+    "Text": "Hisatoshi Takeuchi",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183004",
+    "Length": 16,
+    "Text": "Charles Martinee",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183044",
+    "Length": 15,
+    "Text": "Nobuyuki Hiyama",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183080",
+    "Length": 13,
+    "Text": "Kazumi Totaka",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001830B4",
+    "Length": 13,
+    "Text": "Makiko Ohmoto",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001830E8",
+    "Length": 16,
+    "Text": "Shinobu Satouchi",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183128",
+    "Length": 11,
+    "Text": "Ikue Ootani",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183154",
+    "Length": 12,
+    "Text": "Ryo Horikawa",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183184",
+    "Length": 14,
+    "Text": "Rachael Lillis",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001831BC",
+    "Length": 12,
+    "Text": "Jeff Manning",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001831EC",
+    "Length": 16,
+    "Text": "Yoshiaki Koizumi",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018322C",
+    "Length": 10,
+    "Text": "Koji Kondo",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183254",
+    "Length": 15,
+    "Text": "Hiroji Kiyotake",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183290",
+    "Length": 16,
+    "Text": "Tomoyoshi Yamane",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001832D0",
+    "Length": 4,
+    "Text": "RARE",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001832E0",
+    "Length": 15,
+    "Text": "Hirokazu Tanaka",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018331C",
+    "Length": 14,
+    "Text": "Takashi Tezuka",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183354",
+    "Length": 14,
+    "Text": "Shigefumi Hino",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018338C",
+    "Length": 12,
+    "Text": "Jun Ishikawa",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001833BC",
+    "Length": 13,
+    "Text": "Takao Shimizu",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001833F0",
+    "Length": 14,
+    "Text": "Takaya Imamura",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183428",
+    "Length": 14,
+    "Text": "Satoshi Tajiri",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183460",
+    "Length": 13,
+    "Text": "Benimaru Itoh",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183494",
+    "Length": 11,
+    "Text": "Makoto Wada",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001834C0",
+    "Length": 14,
+    "Text": "Hikaru Jinguji",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001834FC",
+    "Length": 10,
+    "Text": "Taro Bando",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183524",
+    "Length": 17,
+    "Text": "Tsunekaz Ishihara",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183568",
+    "Length": 14,
+    "Text": "Shigesato Itoi",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001835A0",
+    "Length": 11,
+    "Text": "Bill Trinen",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001835CC",
+    "Length": 15,
+    "Text": "Michelle Powers",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183608",
+    "Length": 15,
+    "Text": "Greg Richardson",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183644",
+    "Length": 14,
+    "Text": "Satoshi Ishida",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018367C",
+    "Length": 14,
+    "Text": "Chieko Obikane",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001836B4",
+    "Length": 14,
+    "Text": "Tetsuya Notoya",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001836EC",
+    "Length": 12,
+    "Text": "Jun Yamazaki",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018371C",
+    "Length": 12,
+    "Text": "Chiharu Itoh",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018374C",
+    "Length": 18,
+    "Text": "Yoshiaki Shinohara",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183794",
+    "Length": 13,
+    "Text": "Sigezo Kawase",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001837C8",
+    "Length": 16,
+    "Text": "Shinya Takahashi",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183808",
+    "Length": 17,
+    "Text": "Tsuyoshi Watanabe",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018384C",
+    "Length": 16,
+    "Text": "Yoshiyuki Tagawa",
+    "Size": 0
+  },
+  {
+    "Offset": "0x0018388C",
+    "Length": 14,
+    "Text": "Kensuke Tanabe",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001838C4",
+    "Length": 14,
+    "Text": "Yasuhiro Sakai",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001838FC",
+    "Length": 14,
+    "Text": "Shingo Okamoto",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183934",
+    "Length": 16,
+    "Text": "Super Mario Club",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183974",
+    "Length": 14,
+    "Text": "HAL Debug Team",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001839AC",
+    "Length": 17,
+    "Text": "4Kids Productions",
+    "Size": 0
+  },
+  {
+    "Offset": "0x001839F0",
+    "Length": 13,
+    "Text": "Ryuki Kuraoka",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183A24",
+    "Length": 15,
+    "Text": "Kimiyoshi Fukui",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183A60",
+    "Length": 12,
+    "Text": "Hiroaki Suga",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183A90",
+    "Length": 12,
+    "Text": "Satoru Iwata",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183AC0",
+    "Length": 10,
+    "Text": "Kenji Miki",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183AE8",
+    "Length": 16,
+    "Text": "Shigeru Miyamoto",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183B28",
+    "Length": 16,
+    "Text": "Hiroshi Yamauchi",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183B68",
+    "Length": 16,
+    "Text": "NINTENDO Co.,Ltd",
+    "Size": 0
+  },
+  {
+    "Offset": "0x00183BA8",
+    "Length": 18,
+    "Text": "HAL Laboratory,Inc",
+    "Size": 0
+  }
+]
